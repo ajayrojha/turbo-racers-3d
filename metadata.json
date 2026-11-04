@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Racers 3D - Highway Grand Prix",
+  "description": "An arcade 3D road racing game optimized for iPad and touchscreens. Compete against rival AI racers, drift around curves, and blast nitro boosts to win the championship trophy!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
